@@ -1,2 +1,2 @@
-# Actividad_pizza_trabajo_personal
+# ClasePruevaPizza
 Created with CodeSandbox
